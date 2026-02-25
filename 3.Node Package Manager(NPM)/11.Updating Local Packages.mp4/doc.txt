@@ -1,0 +1,11 @@
+to check any outdate package command: npm outdated
+example: 2. Package.json\npm-demo> npm outdated
+Package     Current  Wanted  Latest  Location                 Depended by
+underscore    1.4.0  1.13.8  1.13.8  node_modules/underscore  npm-demo
+
+to update the outdated version to the wanted version command: npm update
+
+if you want to update to the last version 
+(sudo) npm i -g npm-check-updates
+npm-check-update
+ncu -u 

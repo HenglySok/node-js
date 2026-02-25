@@ -1,0 +1,6 @@
+npm i jshint --save-dev
+"devDependencies": {
+    "jshint": "^2.13.6"
+  }
+
+save the jshint to th devDependencies
