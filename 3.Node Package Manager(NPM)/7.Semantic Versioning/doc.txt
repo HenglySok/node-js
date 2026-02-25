@@ -1,0 +1,9 @@
+^4.13.6
+Major.Minor.Patch
+Patch : developer fix the bug and drop the new version of patch: example: ^4.13.7
+Minor : is used for adding new features that don't break the existing API. example ^4.14.0 //0 
+                                                                        (becuase this version isn't find a bug yet.)
+Major : add a new feature that could potentially break the existing API. example ^5.0.0
+
+^ this carrot character tell npm that interested in any version of package
+~ Tilde means "~4.13.x" (the "x" is auto to the last version on "Patch")

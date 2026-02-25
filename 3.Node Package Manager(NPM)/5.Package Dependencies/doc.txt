@@ -1,0 +1,3 @@
+Excerise To install the liburay name: mongoose
+and inpeact in the package.json to see has mongoose or not
+do it and the nmp-demo

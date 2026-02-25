@@ -1,0 +1,5 @@
+delete the "node_modules" before send the source the other computer 
+"npm i" after open the source on other computer
+create ".gitignore" and write "node_modules/" to exclude the node_modules when push to the github
+
+I have been do this the npm-demo

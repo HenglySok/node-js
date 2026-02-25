@@ -1,0 +1,7 @@
+to see the list of all the installed dependencies and theire exact version: "npm list"
+
+example:
+❯ npm list
+npm-demo@1.0.0 /Users/macbookpro/Documents/node-js/3.Node Package Manager(NPM)/2. Package.json/npm-demo
+├── mongoose@9.2.2
+└── underscore@1.13.8

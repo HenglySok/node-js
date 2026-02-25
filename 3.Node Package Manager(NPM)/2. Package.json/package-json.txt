@@ -1,0 +1,2 @@
+- to create a package.json passed the command : npm init
+command : npm init --yes // this give the package with the defaul values

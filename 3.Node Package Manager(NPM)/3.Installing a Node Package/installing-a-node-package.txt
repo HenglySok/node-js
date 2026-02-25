@@ -1,0 +1,5 @@
+package: underscore
+v: 1.8.3
+command: npm install underscore // or : npm i underscore
+I will install it in the npm-demo
+npm i underscore --save
