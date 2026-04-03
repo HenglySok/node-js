@@ -1,0 +1,14 @@
+5. Nodemon
+    sudo npm i -g nodemon
+    nodemon index.json
+
+6.Environment Variables.
+    const port = process.env.PORT || 3000;
+    app.listen(port, () => {
+        console.log(`Server is running on port ${port} ...`);
+    });
+
+    to set value .env.PORT you mush to use the terminal 
+        for mac : export PORT=value [example: export PORT=500]
+        for window : set PORT=value [example: set PORT=5000]
+
